@@ -1,0 +1,29 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Repository for studies during the curso.dev where we'll clone the TabNews web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoniconeves/clone-tabnews.git"
+  },
+  "keywords": [
+    "curso.dev",
+    "clone",
+    "tabnews"
+  ],
+  "author": "Bruno Bastos Neves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoniconeves/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/brunoniconeves/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
